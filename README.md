@@ -1,5 +1,5 @@
 # HomeSecuritySystemIOT
-Built a project in which motion detection is used to click pictures of intruders and mail them to the admin.
+Built a project in which motion detection is used to click pictures of intruders and mail them to the admin.</br>
 Using Raspberry Pi , PIR Sensor, Python.
 
 ## Introduction
@@ -9,8 +9,8 @@ Home security is a primary concern for homeowners all around the world. The adva
 IoT-based home security systems offer several benefits, including enhanced security, convenience, cost-effectiveness, scalability, automation, and energy efficiency. These benefits make them a popular choice among homeowners looking to enhance their home security while also enjoying the convenience and cost savings that IoT technology offers.
 
 ## Hardware Requirements
-1.Raspberry Pi
-2.WebCam/Pi Camera
+1.Raspberry Pi </br>
+2.WebCam/Pi Camera </br>
 3.PIR Sensor
 
 ## Flow Chart
