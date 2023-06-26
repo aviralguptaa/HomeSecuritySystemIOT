@@ -22,8 +22,8 @@ smtp_username = 'minor4377@gmail.com'
 smtp_password = 'pcgowelawjnzvggh'
 
 # Set up message
-sender = 'minor4377@gmail.com'
-recipient = 'aviralrakeshgupta3@gmail.com'
+sender = 'Sender Email Id'
+recipient = 'Recipient Email Id'
 subject = 'Security Alert'
 body = 'There is some activity in your home. Email sent from a Raspberry Pi. cam'
 
