@@ -19,6 +19,11 @@ IoT-based home security systems offer several benefits, including enhanced secur
 ## Our Model
 ![WhatsApp Image 2023-06-26 at 13 12 23](https://github.com/aviralguptaa/HomeSecuritySystemIOT/assets/71933640/c1e6214b-c3aa-425a-a175-a3ab5d84b246)
 
+## Output
+![image](https://github.com/aviralguptaa/HomeSecuritySystemIOT/assets/71933640/2134180f-eaa7-4f93-858b-e930e5f47768)
+![image](https://github.com/aviralguptaa/HomeSecuritySystemIOT/assets/71933640/891db918-c648-4eb3-a8c8-01ee9cc99ddf)
+
+
 ## Future Scope
 Image recognition can be added so that security alerts are sent only when an unrecoganised user is present.
 
